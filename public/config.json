@@ -1,5 +1,5 @@
 {
-    "backendUrl": "http://127.0.0.1:5000",
+    "backendUrl": "https://tonecanvas.ngrok.app",
     "headers": {
       "ngrok-skip-browser-warning": "true"
     }
